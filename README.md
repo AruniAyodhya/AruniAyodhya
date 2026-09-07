@@ -34,7 +34,7 @@ I am an Artificial Intelligence undergraduate at <b>SLIIT</b> focused on develop
         <li>📍 Based in <b>Colombo, Sri Lanka</b></li>
         <li>🎓 Pursuing <b>BSc (Hons) in Information Technology (Specializing in AI)</b></li>
         <li>💡 Exploring multi-agent orchestration, vector stores, and model evaluation</li>
-        <li>🎯 Seeking opportunities as an <b>AI / ML Engineering Intern</b></li>
+        <li>🎯 Seeking opportunities as an <b>AI Engineering Intern</b></li>
       </ul>
 
 ---
