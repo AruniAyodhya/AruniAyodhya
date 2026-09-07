@@ -4,10 +4,6 @@
 
 ### Aspiring AI Engineer | Building Intelligent AI Systems | AI Undergraduate at SLIIT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruni-ayodhya-541b26262)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AruniAyodhya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aruniayodhya@gmail.com)
-
 </div>
 
 ---
@@ -85,6 +81,10 @@
 -->
 ### 📬 Connect With Me
 
-* **Email:** [aruniayodhya@gmail.com](mailto:aruniayodhya@gmail.com)[cite: 1]
-* **LinkedIn:** [linkedin.com/in/aruni-ayodhya-541b26262](https://www.linkedin.com/in/aruni-ayodhya-541b26262)[cite: 1]
-* **GitHub:** [github.com/AruniAyodhya](https://github.com/AruniAyodhya)[cite: 1]
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruni-ayodhya-541b26262)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AruniAyodhya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aruniayodhya@gmail.com)
+
+</div>
