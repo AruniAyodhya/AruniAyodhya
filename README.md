@@ -29,7 +29,7 @@
 
 ### ✦ About Me
 
-I am an Artificial Intelligence undergraduate at <b>SLIIT</b> focused on developing production-grade intelligent systems[cite: 1]. My core work centers on autonomous agent architectures, local RAG implementations, and low-latency voice streaming workflows.
+I am an Artificial Intelligence undergraduate at <b>SLIIT</b> focused on developing production-grade intelligent systems. My core work centers on autonomous agent architectures, local RAG implementations, and low-latency voice streaming workflows.
       <ul>
         <li>📍 Based in <b>Colombo, Sri Lanka</b></li>
         <li>🎓 Pursuing <b>BSc (Hons) in Information Technology (Specializing in AI)</b></li>
