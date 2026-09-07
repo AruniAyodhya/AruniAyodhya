@@ -10,10 +10,10 @@
 
 ### 💫 About Me
 
-* 🎓 Pursuing a **BSc (Hons) in Information Technology specializing in AI** at the Sri Lanka Institute of Information Technology (SLIIT)[cite: 1].
-* 🤖 Passionate about designing **intelligent agent workflows**, **RAG pipelines**, and **real-time AI systems** using FastAPI, LangChain, and LangGraph[cite: 1].
-* 📍 Based in **Colombo, Sri Lanka**[cite: 1].
-* 🎯 Focused on building scalable AI applications and seeking opportunities as an **AI / ML Engineering Intern**[cite: 1].
+* 🎓 Pursuing a **BSc (Hons) in Information Technology specializing in AI** at the Sri Lanka Institute of Information Technology (SLIIT).
+* 🤖 Passionate about designing **intelligent agent workflows**, **RAG pipelines**, and **real-time AI systems** using FastAPI, LangChain, and LangGraph.
+* 📍 Based in **Colombo, Sri Lanka**.
+* 🎯 Focused on building scalable AI applications and seeking opportunities as an **AI Engineering Intern**.
 
 ---
 
